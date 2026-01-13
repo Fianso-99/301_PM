@@ -1,0 +1,225 @@
+﻿Scrum - Rituals Workbook
+
+
+
+
+
+
+Iterative Time-box Activities
+Sprint planning
+	Development work
+	Daily stand ups.
+	Sprint review max 4 hrs
+	Sprint Retrospective
+	
+
+
+
+
+
+
+
+
+
+Quality of an Iteration
+* Measure how well a cycle was executed.
+* Focuses on : compilation of tasks, meeting requirements, low defects, efficiency , and applying feedback.
+	
+
+Quality of Outcome Determination
+* Measure how good the final result is .
+* Focuses on : correctness, reliability , stakeholder satisfaction, standards, compliance, and measurable performance
+	
+
+
+
+
+
+Sprint definition
+
+
+
+
+A fixed ,time-boxed agile iteration to complete a set of tasks and deliver a usable product increment.
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+
+
+Determination of length of sprint.
+
+
+Usually 1-4 weeks, chosen based on team size, project complexity,feedback needs, and delivery frequency .
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+Sprint Rituals 
+Sprint Planning Meeting
+	A meeting where the team plans the work for upcoming sprints, decides what to do, and how to do it.
+	Estimation
+	The act of determining (guessing) the expected size of something.
+	
+
+
+
+   3 types of estimation                         When this occurs                 Unit of measure
+Story points
+	During backlog grooming/refinement or sprint planning
+	points.
+	ideal/ task hours
+	During sprint planning for tasks
+	hours.
+	T-shirt sizes
+	During early backlog estimation
+	sizes.
+	
+
+
+
+
+
+
+
+Scrum Roles Involved in Estimation
+
+
+  
+Planning Poker                                                         Triangulation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ideal day / Ideal hour 
+
+
+   * Focus on the task; No interruptions
+   * Constantly able to focus; No interruptions
+	Problems with Ideal estimation
+
+
+* Doesnt  account for interruption,meeting, or distraction
+* Often overly optimistic compared to real-world conditions.
+* Can lead to missed deadlines if used alone for planning.
+	
+
+
+
+Daily Standup
+Purpose
+A short daily meeting to synchronize the team, track progress and identify blockers.
+	3 Questions
+
+
+* What did i do yesterday ?
+* What will i do today ? 
+* Any blockers or obstacles?
+	Rules
+
+
+* Keep it short 
+* Focus on progress and issues, not problem solving 
+* Everyone stands up to stay concise.
+* No deep discussions.
+	
+
+
+
+
+
+Pair Programming 
+
+
+
+
+	
+
+Sprint Review Meeting
+Purpose
+
+
+	Participants
+	Timing
+	Location
+	Expected Outcomes
+	
+
+
+
+Sprint Retrospective Meeting 
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+Ritual Timing 
+Sprint Duration
+	
+
+	Daily Stand-up
+	
+
+	Spring Planning
+	
+
+	Spring Review
+	
+
+	Sprint Retrospective
