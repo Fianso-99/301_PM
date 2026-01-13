@@ -1,0 +1,107 @@
+﻿Scrum - Roles Workbook
+
+
+Roles
+Product Owner
+	Scrum Master
+	Scrum Team
+	
+
+Scrum Development Team 
+Composition
+	* Developer Team - Developers only.
+
+
+   * Developer roles includes analyst, developers, architects, testers, etc.
+
+
+	Organization
+	* Self-organized.
+
+
+   * Self-directed, self-selective of the work to do from the product backlog and how to do it.
+	Cross-functional
+	* Cross-functional.
+   * Self-contained with all the skills necessary to succeed.
+
+
+	Responsible to:
+	   * Each team member commits their work to the team when delegated or “pulled.”  The entire team is responsible for the success/failure of the overall project.  If incorrect specifications were delivered to team by Product Owner, Dev team is still responsible for successful delivery because they are to validate functionality from customer feedback during Sprint Review (delivery and feedback from the customer for that individual stage of increment development.)  Dev Team is ultimately responsible for the success/failure of the project.
+
+
+	Authority
+	* Authority to commit as a team to the customer
+	Size
+	* Team Size 7 +/- 3 (too large or too small impedes progress and communication)
+
+
+	
+
+Product Owner
+Owner of Artifact?
+	Owns the product backlog.
+	Product Backlog  Grooming
+	Is responsible for refining, prioritizing ,and keeping the product backlog clear and ready .
+	Collects
+	Requirements , customer needs , stakeholder feedback, business priorities,
+	Attends Sprint  
+Planning Meeting
+	Explain backlog items , clarify priorities, help define the sprint goal.
+	Accountability
+	Maximizing product value, ordering the product backlog , ensuring the team builds the right thing.
+	Scrum Master 
+Coach—Servant Leader
+	Helps the team follow scrum correctly and continuously improve.
+	Shields Team
+	Protect the team from distractions, interruptions, and outside pressure so they can focus on sprint work.
+	Deals w/Obstacles
+	They remove impediments ( blockers) that slow or stop the teams’ progress.
+	Daily Standup Role
+	Facilitates the daily scrum.
+Ensures it happens .
+Keeps it short and focused but does not run the meeting - the development team owns it.
+	Team Velocity
+	Helps the team understand and use it .
+Uses it for forecasting and improvement.
+	Assist Product Owner
+	Ensuring the product backlog is well-refined.
+Helping with stakeholder communication
+	
+
+
+
+Velocity
+Definition
+	A measure of the average amount of work  (in story points or other units) that is completed per unit of time (e.g., sprint, day, week, month).
+	Calculated by:
+	The development team.
+	Purpose
+	Predict future delivery .
+Help sprint planning .
+Improve estimation accuracy.
+Track team consistency.
+	Team Velocity 
+How often calculated.
+	Team velocity is calculated at the end of every sprint.
+	Calculated by:
+	Development team.
+	Purpose
+	* Forecast how much work the team can handle in future sprints.
+* Help sprints planning.
+* Improve estimation accuracy.
+* Track consistency and stability of the team.
+	
+
+
+
+Capacity
+Definition
+	Capacity is the amount of work a scrum team is realistically able to do in a sprint, based on available time and people.
+	Purpose
+	* Decide how much to take into a sprint 
+* Prevent overloading the team
+* Make sprint planning realistic 
+* Balance workload fairly.
+	
+
+Stakeholder Interactions
